@@ -12,7 +12,7 @@ This macro will define MATH_H_ only if it is not already defined
 
 The math function is then declared in this file
 
-### math.c file
+## math.c file
 In this file there are the includes for <stdio.h> and "math.h"
 
 <stdio.h> is necessary for using the printf function
