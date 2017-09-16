@@ -1,5 +1,5 @@
 # Lab 1: Implementation of math.c file
-In this lab the math.h header file was provided with a declaration for the math(int, int, char) function. The math.c file was created in order to implement this function
+In this lab the math.h header file was provided with a declaration for the math(int, int, char) function. The math.c file was created in order to implement this function. This function will take two numbers, perform an operation, and return the result.
 
 ## math.h file
 This file starts with two preprocessors ifndef and define.
