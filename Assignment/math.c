@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "math.h"
 
-int result = 0;
+int result = 0; //result
 
 
 int main()
