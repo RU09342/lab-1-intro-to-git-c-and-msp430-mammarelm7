@@ -21,5 +21,5 @@ importing "math.h" is necessary so that math.c can implement the declared math f
 
 The math function is implemented where the operator is checked and the result is set for the corresponding math function
 
-The main in this program defines num1, num2, and the operator. It then executed the implemented math function and prints out the result.
+The main in this program defines num1, num2, and the operator. It then executes the implemented math function and prints out the result.
 
